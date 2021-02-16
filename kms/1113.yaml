@@ -1,0 +1,6 @@
+name: kms
+version: 1113
+category: default_repo
+image: luodaoyi/kms-server:1113
+ports:
+  - 1688: 1688
